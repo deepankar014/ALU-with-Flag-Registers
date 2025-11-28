@@ -136,6 +136,6 @@ Screenshots can be included here to showcase different stages:
 
 ## Author
 
-**Deepankar Maji**
+**Deepankar Majee**
 Electronics and Communication Engineering Student
 Focus Areas: VLSI Design, Digital Systems, and ASIC Development
